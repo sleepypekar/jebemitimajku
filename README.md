@@ -1,1 +1,2 @@
 # jebemitimajku
+pa tacemo
