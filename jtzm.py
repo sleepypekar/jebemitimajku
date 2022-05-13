@@ -1,1 +1,1 @@
-print ("i pozdrav svima ljudi mudja ovde")
+print ("i tako, pozdrav svima ljudi mudja ovde")
